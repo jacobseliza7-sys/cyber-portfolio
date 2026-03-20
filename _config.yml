@@ -33,15 +33,15 @@ color:
 # Footer settings
 footer:
   copyright: Eliza Jacobs
-  location: Location
+  location: Piscataway, New Jersey
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://linkedin.com/in/eliza-jacobs7
-  - title: github
+    url: https://linkedin.com/in/eliza-jacobs7/
+  - title: GitHub
     url: https://github.com/jacobseliza7-sys
 
 # Email Address (make sure to include "mailto:" before your email!)
